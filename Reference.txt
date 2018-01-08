@@ -1,0 +1,21 @@
+﻿References
+1) Justen Pascai
+2) http://www.brianstorti.com/implementing-a-priority-queue-in-ruby/
+3) Dr. Jason Johnson
+4) https://github.com/kanwei/algorithms
+5) https://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html
+6) http://stackoverflow.com/questions/2827496/where-are-my-ruby-gems
+7) https://home.cse.ust.hk/~dekai/271/notes/L14/L14.pdf
+8) https://www.google.com/search?q=exponential+graph&client=ubuntu&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIxP3FsobTAhWj2YMKHQtvArcQ_AUIBigB&biw=1366&bih=612#imgrc=x8z8JrRG6x1lsM:
+9) https://www.google.com/search?q=power+graph&client=ubuntu&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip7cWjs4bTAhWn34MKHWwLBBgQ_AUIBigB&biw=1366&bih=612#imgrc=glQIOmtvOpvamM:
+10) https://www.google.com/search?q=logarithmic+graph&client=ubuntu&espv=2&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwilou7Zs4bTAhVD6IMKHfm6CpYQ_AUIBigB&biw=1366&bih=612#imgrc=Ou_nYG4zdODGXM:
+11) https://www.google.com/search?q=polynomial+graph&client=ubuntu&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjnwNGStIbTAhXl3YMKHS4tCQEQ_AUIBigB&biw=1366&bih=612#tbm=isch&q=polynomial+graph&chips=q:polynomial%20graph,g_1:polynomial%20function&*&imgrc=NbvkfAHsJjL3GM:
+12) https://www.google.com/search?q=linear+graph&client=ubuntu&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6gpqltYbTAhUM94MKHaTUAp0Q_AUIBigB&biw=1366&bih=612#imgrc=ab72m28YrsZf-M:
+13) http://www.intelligence.tuc.gr/~petrakis/courses/datastructures/algorithms.pdf
+14) http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Greedy/knapscakFrac.htm
+15) https://en.wikipedia.org/wiki/Knapsack_problem
+16) http://www.cse.psu.edu/~ads22/courses/cse565/F08/www/lec-notes/CSE565-F08-Lec-19.pdf
+17) https://courses.engr.illinois.edu/cs598csc/sp2011/Lectures/lecture_6.pdf
+18) https://plot.ly/create/
+19) http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall14/lectures/Greedy_Knapsack_Slides.pdf
+20) https://www.google.com/search?q=knapsack+graph&client=ubuntu&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd5fvn6YbTAhWh7oMKHZKQDAMQ_AUIBigB&biw=1366&bih=612#tbm=isch&q=knapsack+graph+polynomial&*&imgrc=5oR_ACiOB6u3oM:
